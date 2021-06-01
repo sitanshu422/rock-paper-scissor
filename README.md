@@ -1,5 +1,5 @@
 # rock-paper-scissor
-Rock, Paper or  Scissors?rock
+* Rock, Paper or  Scissors?rock
 You lose! Paper covers Rock
 Rock, Paper or  Scissors?rock
 You lose! Paper covers Rock
