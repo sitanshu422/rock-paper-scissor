@@ -1,6 +1,6 @@
 # rock-paper-scissor
 * Rock, Paper or  Scissors?rock
-You lose! Paper covers Rock
+ * You lose! Paper covers Rock
 Rock, Paper or  Scissors?rock
 You lose! Paper covers Rock
 Rock, Paper or  Scissors?paper
